@@ -154,23 +154,9 @@ graph TD
 ---
 
 ## 🎯 **Victory Condition**
-The legendary **GDSII artifact** - your passport to silicon immortality!
+🚀 **Week 0 Mission Accomplished** - Toolkit ready for SoC journey!
 
 <div align="center">
-
-### 📁 **Command Center Structure**
-```
-🌟 Week-0-Mission/
-├── 📸 Images/
-│   ├── yosys_installation_done.jpeg
-│   ├── iverilog_status.png
-│   └── gtkwave_installation_done.jpeg
-├── 🎯 Task-1/
-├── 🎯 Task-2/
-└── 📖 README.md
-```
-
-</div>
 
 ---
 
@@ -179,7 +165,6 @@ The legendary **GDSII artifact** - your passport to silicon immortality!
 ### 🚀 **Status: Mission In Progress**
 *"The journey of a thousand gates begins with a single HDL line"*
 
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square)](https://github.com/yourusername)
 [![RISC-V Future](https://img.shields.io/badge/Building%20the-RISC--V%20Future-blue?style=flat-square)](https://riscv.org/)
 
 **🎖️ Part of VSD RISC-V Reference SoC Tapeout Program**
