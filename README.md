@@ -6,7 +6,7 @@
 [![RISC-V](https://img.shields.io/badge/RISC--V-Processor-blue?style=for-the-badge&logo=riscv)](https://riscv.org/)
 [![VSD](https://img.shields.io/badge/VSD-Tapeout%20Program-orange?style=for-the-badge)](https://vsdiat.com)
 [![Week](https://img.shields.io/badge/Week-0-green?style=for-the-badge)](#)
-[![Status](https://img.shields.io/badge/Status-Week%200%20Complete-brightgreen?style=for-the-badge)](#)
+[![Status](https://img.shields.io/badge/Status-Week%200%20Completed-brightgreen?style=for-the-badge)](#)
 
 ---
 
@@ -155,7 +155,7 @@ graph TD
 
 ## 🎯 **Victory Condition**
 🚀 **Week 0 Mission Accomplished** - Toolkit ready for SoC journey!
-[![Status](https://img.shields.io/badge/Status-Week%200%20Complete-brightgreen?style=for-the-badge)](#)
+[![Status](https://img.shields.io/badge/Status-Week%200%20Completed-brightgreen?style=for-the-badge)](#)
 <div align="center">
 
 ---
