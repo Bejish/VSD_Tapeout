@@ -67,7 +67,7 @@ make && sudo make install
 </details>
 
 📸 **Installation Success:**
-![Yosys Ready](Images/yosys_installation_done.jpeg)
+![Yosys Installation Success](Week0/Images/yosys_installation.png)
 
 #### **⚡ Iverilog - The Simulation Engine**
 *Bringing your designs to life*
