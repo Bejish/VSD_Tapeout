@@ -25,7 +25,7 @@
 |--------|-------------|
 | 💾 **Memory** | 6 GB RAM |
 | 💿 **Storage** | 50 GB HDD |
-| 🐧 **Platform** | Ubuntu 20.04+ |
+| 🐧 **Platform** | Ubuntu 22.04 |
 | ⚡ **Power** | 4 vCPU cores |
 
 ---
