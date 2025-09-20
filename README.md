@@ -76,7 +76,7 @@ make && sudo make install
 sudo apt-get update && sudo apt-get install iverilog
 ```
 📸 **Status Check:**
-![Iverilog Online](Images/iverilog_status.png)
+![Iverilog Installation](Week0/Images/iverilog_installation.png)
 
 #### **📊 GTKWave - The Waveform Wizard**
 *Visualizing the heartbeat of your design*
@@ -85,7 +85,7 @@ sudo apt-get update && sudo apt-get install iverilog
 sudo apt-get update && sudo apt install gtkwave
 ```
 📸 **Ready to Analyze:**
-![GTKWave Active](Images/gtkwave_installation_done.jpeg)
+![GTKWave Installation](Week0/Images/gtkwave_installation.png)
 
 ---
 
